@@ -1,3 +1,3 @@
 
 def myfunc(x):
-	pass
+	return 'gazornin'
