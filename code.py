@@ -1,2 +1,3 @@
-def myfunc():
+
+def myfunc(x):
 	pass
